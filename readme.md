@@ -2,5 +2,5 @@ segundo commit
 
 Feito algumas alteracoes nesse arquivo2
 
-Feito altercoes apos o git clone
+Feito alteracoes apos o git clone
 
